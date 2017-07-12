@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Title
+name: Name
+description: Description
+author: Author
