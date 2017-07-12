@@ -4,3 +4,8 @@ name: Name
 description: Description
 author: Author
 include: ["_static"]
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
